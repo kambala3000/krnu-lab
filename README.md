@@ -7,5 +7,5 @@
     <li>Лабораторная 5 (<a href="http://kambala3000.github.io/lab/lab5/" target="_blank">view</a>). Визуализация данных, полученых из API в формате XML. Был использован <a href="https://api.privatbank.ua/#p24/exchange" target="_blank">ПриватБанк API</a>.</li>
     <li>Лабораторная 6 (<a href="https://kambala3000.github.io/lab/lab6/" target="_blank">view</a>). SVG анимация, были использованы CSS keyframes.</li>
     <li>Лабораторная 7 (in process)</li>
-    <li>Лабораторная 8 (in process)</li>
+    <li>Лабораторная 8 (done). MS Word макрос для автоматического формирования титульной страницы.</li>
 </ol>
